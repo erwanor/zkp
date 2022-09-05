@@ -2,6 +2,13 @@
 
 Entries are listed in reverse chronological order.
 
+## 0.9.0
+
+* Update `curve25519-dalek` dependency to 4.1.
+* Update `rand` to 0.8.
+* Update `merlin` to 3.0.0.
+* Update crate metadata.
+
 ## 0.8.0
 
 * Update `curve25519-dalek` dependency to 3.0.
